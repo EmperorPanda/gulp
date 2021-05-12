@@ -1,0 +1,48 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\layout\\\\index.vue",
+    "children": [
+      {
+        "path": "/",
+        "name": "home",
+        "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\home\\\\index.vue"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\login"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\article\\\\creatOrEdit.vue"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\article\\\\index.vue"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\profile"
+      },
+      {
+        "path": "/profile/:username/favorites",
+        "name": "profile",
+        "component": "C:\\\\Users\\\\wing\\\\Desktop\\\\nuxt-realworld\\\\pages\\\\profile"
+      }
+    ]
+  }
+]
